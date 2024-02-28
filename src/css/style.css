@@ -1,0 +1,76 @@
+p{font-size: 14px;}
+.primary-btn{background-color: #1976d2;color: #ffffff; padding:1rem;border-radius: 2px;border: 1px solid #1976d2; }
+
+/* AppJs */
+.HeaderComponent{margin-top: 70px;}
+
+
+#signup h1{display: flex; justify-content: center;align-content: center;}
+#id{background-color: #2874f0 !important;height: 55px !important} 
+.logo {margin-left: 12%;}
+.logo img{width: 75px;}
+.subHeading{color:#ffffff;font-size: 10px;font-style: italic;}
+.subHeading span{color: #ffe500;}
+.subHeading img{width: 10px;}
+
+
+/* searchBar */
+#InputBase{width: 38%;height:36px;background-color: #ffffff;border-radius: 2px;display: flex;font-size: unset;}
+.searchprod{width: 100%;margin-left: 20px;}
+.searchIcon{color: #2874f0;margin: 5px;}
+
+/* CustomButton */
+#CustomButton{display: flex; justify-content: space-between;align-items: center;}
+#CustomButton button{background-color: #ffffff; color: #2874f0;border-radius: 2px; margin-left: 10px;font-weight: 500;}
+#CustomButton div{margin-left: 3rem;}   
+.shoppingKart{display: flex;}
+
+/* navBar */
+.navBar{display: flex;justify-content: space-around;}
+.navBar img{width: 65px;}
+.navBar p{text-align: center;}
+
+/* banner */
+.banner{width: 100%;height:50vh;}
+
+/* homebar */
+.homebar{padding: 10px;background-color: #f2f2f2;}
+
+/* dialogBox */
+.dialogContainer{display: flex;}
+.leftDialog{width: 40%;background: #2874f0;}
+.leftDialog{ padding:20px;}
+.leftLoginText{padding:20px;}
+.rightDialog{padding: 20px;margin-bottom: 30px !important; width: 60%;}
+.userName{width: 100%;margin-bottom: 30px !important;margin-top: 30px !important;}
+.userPassword{width: 100%;margin-bottom: 30px}
+.dialogTest{margin-bottom: 30px !important;margin-top: 30px !important;}
+.loginButton{background: #fb641b !important;color: #ffffff !important;height: 48px;width: 100%;border-radius: 16px;text-transform: none !important;margin-bottom: 20px !important;}
+.requestOtp{background: #fb641b !important;color: #ffffff !important;height: 48px;width: 100%;border-radius: 16px;text-transform: none !important;margin-bottom: 20px !important;}
+.OrTest{text-align: center;margin-bottom: 30px !important;}
+
+/* Signup */
+.signupInput{width: 100% !important;margin-bottom: 30px !important;}
+.slider-container{padding-bottom:32px;}
+.product-card{margin-bottom: 30px;}
+.Banner{padding-bottom: 30px;}
+.card-image img{height: 250px;width: 100%;}
+.card-image p{text-align: center;}
+.timmer{margin-left: 20px;margin-top: 5px;}
+.timer-container{background-color:#ffffff;}
+.timer-container p{font-size: 20px;margin: 30px,0px,0px,40px;}
+.timmer img{width: 30px;height: 30px;}
+.slider-box{background-color: #fff;padding: 20px;}
+.addUrl img{width: 100%;height: 92.2%;}
+.add-Banner{margin-bottom: 2rem;}
+.add-Banner img{width: 100%;}
+
+/* detail-page */
+.detail-page img{margin: 2rem 0rem 0rem 2rem;}
+.detail-btn{margin-left: 2rem;}
+.detail-btn button{margin: 1rem;}
+
+/* searchbar_input */
+.searchbar_input{position: relative;display: flex; justify-content: space-between;}
+.searchbar_list{position: absolute;background-color: #000;color: #fff;margin-top: 36px;width: inherit; }
+.cartItem-outer{margin: 4rem 8rem 4rem 8rem;}
